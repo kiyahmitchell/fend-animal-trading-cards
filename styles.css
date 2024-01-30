@@ -1,0 +1,59 @@
+body {
+    font-family: 'Lora', serif;
+    font-size: 12px;
+}
+
+h2 {
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 10px;
+    padding: 5px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    letter-spacing: 2px;
+    font-weight: 700;
+
+}
+
+
+div {
+    width: 300px;
+    padding: 20px;
+    border: 1px solid gray;
+    margin: 0;
+    border-radius: 5px;
+    background-color: #ededea;
+}
+
+.container {
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
+}
+
+.box {
+    width: 278px;
+    margin: 0;
+    padding: 10px;
+}
+
+.fact {
+    font-style: italic;
+}
+
+img {
+    width: 300px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    box-shadow: 2px 2px 5px gray;
+}
+
+span {
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+
+ul {
+    list-style-type: none;
+    text-align: left;
+    margin: 0;
+    padding: 0;
+}
